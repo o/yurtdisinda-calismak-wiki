@@ -32,7 +32,7 @@ else
 
     git clone "${repository_url}" "${content_folder}"
     jekyll build --source "${content_folder}" --destination="${destination_folder}"
-    ln -sf "${destination_folder}" "${web_folder}"
+    ln -nsf "${destination_folder}" "${web_folder}"
     echo "${latest_sha}" > "${current_sha_file}"
 fi
 
