@@ -11,21 +11,27 @@ Dökümanların organizasyonunda mümkün olduğunca benzer konuları tek bir sa
 Eğer bilgi vereceğiniz spesifik konu veya altbaşlık uzun bir döküman ise ayrı bir sayfa olarak ele alınabilir. 
 (Örneğin Amsterdam'da mahalleler ve ev tutma rehberi, XXX vizesi ile alakalı dikkat edilmesi gereken önemli hususlar)
 
+Bu sitede yer alan bilgiler [Creative Commons 4.0 BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
+lisansına sahiptir. Kaynak gösterilerek, değiştirilmeden alıntı yapılabilir ve ticari amaçla kullanılamaz.
+
 Bu site herhangi bir ücretli hizmet vermemekte ve kar amacı gütmemektedir. Lütfen mümkün olduğunca sadece resmi 
 kurumların internet sitelerine bağlantı veriniz.
 
-Bu sitede yer alan bilgiler [Creative Commons 4.0 BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
-lisansına sahiptir. Kaynak gösterilerek, değiştirilmeden alıntı yapılabilir ve ticari amaçla kullanılamaz.
+Mümkün olduğunca temiz bir Türkçe kullanmanızı rica ediyoruz. Bunun yanında yabancı kelime ve kavramları açıklama 
+belirterek kullanabilirsiniz (Örneğin: Gemeente).
+
+## Teknik konular
 
 İçerik [github.com/o/yurtdisinda-calismak-wiki](https://github.com/o/yurtdisinda-calismak-wiki) adresinde tutulmaktadır. 
 Katkı sağlamak için Github üzerinde Pull request gönderebilir veya e-posta gönderebilirsiniz. 
 Lütfen güncellediğiniz döküman altında yer alan katkıda bulunanlar kısmına adınızı (Örneğin: Osman Üngür 
 veya Mehmet K. gibi) ekleyiniz ve son güncellenme tarihini düzenleyiniz.
 
-Mümkün olduğunca temiz bir Türkçe kullanmanızı rica ediyoruz. Bunun yanında yabancı kelime ve kavramları açıklama 
-belirterek kullanabilirsiniz (Örneğin: Gemeente). 
+Site içeriğinin statik HTML çıktısı için [Jekyll](https://jekyllrb.com) kullanılmaktadır ve sayfa içerikleri [markdown](https://daringfireball.net/projects/markdown/) formatı ile hazırlanmaktadır. Github'da yer alan repository içeriği
+5 dakikada bir [şurada yer alan bash script](https://github.com/o/yurtdisinda-calismak-wiki/blob/master/build-tools/release.sh) 
+ile güncellenmektedir.
 
-Aşağıda bilgi verebileceğiniz konuların bir listesini hazırladık:
+## Bilgi verilebilecek konular listesi
 
 ### Yasal konular ve izinler
 * XYZ vizesiyle çalışmak
