@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script requires curl, git and jq (https://stedolan.github.io/jq/) in PATH.
 
 set -euo pipefail
 # exit on non zero exit code, fail fast when variable not found, fail immediately when a command fails behind pipe
@@ -13,6 +14,7 @@ readonly web_folder='/var/www/html'
 readonly build_folder='/tmp/build/'
 readonly source_folder='/tmp/source/'
 
+# Make it fail-safe with idempotent commands
 touch "${current_sha_file}"
 mkdir -p "${build_folder}"
 mkdir -p "${source_folder}"
