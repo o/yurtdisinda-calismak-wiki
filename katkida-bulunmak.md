@@ -29,7 +29,7 @@ veya Mehmet K. gibi) ekleyiniz ve son güncellenme tarihini düzenleyiniz.
 
 Site içeriğinin statik HTML çıktısı için [Jekyll](https://jekyllrb.com) kullanılmaktadır ve sayfa içerikleri [markdown](https://daringfireball.net/projects/markdown/) formatı ile hazırlanmaktadır. Github'da yer alan repository içeriği
 5 dakikada bir [şurada yer alan bash script](https://github.com/o/yurtdisinda-calismak-wiki/blob/master/build-tools/release.sh) 
-ile güncellenmektedir.
+ile sunucuya senkronize edilip degişiklik durumunda build edilerek otomatik olarak yayına alınmaktadır.
 
 ## Bilgi verilebilecek konular listesi
 
