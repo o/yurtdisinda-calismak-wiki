@@ -3,7 +3,7 @@ layout: page
 title: Katkıda bulunmak
 contributors: Osman Ungur
 updated_at: 24 Ekim 2017
-permalink: /katkida-bulunmak
+permalink: /katkida-bulunmak/
 description: Sitede yer alan içeriğe katkıda bulunmak isteyenler için kısa bir rehber
 ---
 
