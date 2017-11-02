@@ -2,7 +2,7 @@
 
 # This script requires curl, git, jekyll (requires ruby, ruby-dev, build-essential (for make and gcc))
 # and jq (https://stedolan.github.io/jq/) in PATH
-# TODO: Logging? 
+# How to simulate cron environment https://stackoverflow.com/questions/2135478/how-to-simulate-the-environment-cron-executes-a-script-withs
 
 set -euo pipefail
 # exit on non zero exit code, fail fast when variable not found, fail immediately when a command fails behind pipe
@@ -43,7 +43,7 @@ else
 
     git clone "${repository_url}" "${content_folder}"
     # Create static version of content
-    jekyll build --source "${content_folder}" --destination="${destination_folder}"
+    /usr/local/bin/jekyll build --source "${content_folder}" --destination="${destination_folder}"
     # Force symlink new build and don't follow current symlink
     ln -nsf "${destination_folder}" "${web_folder}"
     # Update latest commit SHA
