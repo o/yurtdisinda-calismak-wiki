@@ -15,6 +15,6 @@ Belli şirketlere bağlı ulaşım araçlarında indirimli abonelik tarifesi ala
 
 Genel olarak metrolarda ve bazı otobüslerde bisikletiniz ile ücretsiz seyahat edebilirsiniz. Tren yolculukları için günlük bisikletle seyahat ürünü satın almanız gereklidir. 
 
-Tren yolculukları için kartınızda en az 20€ bakiye bulunması gereklidir.
+Tren yolculukları için kartınızda en az 20€, diğer ulaşım araçları için 4€ bakiye bulunması gereklidir. Yeni kart ücreti 7.5€'dur.
 
-[9292](https://9292.nl) internet sitesinden veya mobil uygulamasından seyahat planlaması yapabilirsiniz. 
+[9292](https://9292.nl) internet sitesinden veya mobil uygulamasından seyahat planlaması yapabilirsiniz. Planlama yaparken tam adres girebilirsiniz.
