@@ -4,14 +4,20 @@ title: Ehliyet almak
 contributors: Özgür Karalar
 updated_at: 05 Kasım 2017
 permalink: /bg/ehliyet-almak/
-description: Bulgaristan'da ehliyeti ehliyet almak konusunda bilgileri
+description: Bulgaristan'da ehliyet almak veta değiştirmek konusu
 ---
 
-Bulgaristan'da eğer daha ehliyet almadıysanız Türk vatandaşı olup Bulgaristan'da ehliyet alabilmeniz için öncelikle yazılı sınavı geçemeniz lazım fakat bu ülkemize göre çok daha zor bir sınav ve Bulgarca bu yüzden ehliyeti Türkiyeden almak daha kolay bu konuda fakat zamanınız yoksa ve Bulgaristandan almanız gerekiyorsa eğer öncelikle Bulgaristanda oturum izniniz olması gerekiyor sonrasında [bu linkten](http://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm) ulaşacağınız bilgilerle ehliyet başvurusu yapabilir ve ehliyet için sınav tarihini alabilirsiniz.
+Bulgaristan'da eğer daha önce ehliyet almadıysanız Türk vatandaşı olup Bulgaristan'da ehliyet alabilmeniz için öncelikle yazılı sınavı geçmeniz gerekmektedir. Fakat bu ülkemize göre çok daha zor bir sınav ve Bulgarca dilinde, bu yüzden ehliyeti Türkiye'den almak ve Bulgaristan'da değiştirmek daha kolay bir seçenektir.
 
-Eğer ehliyetiniz varsa ehliyetinizi de 1 ocak 2016 önce almış olan kişilerin önce ehliyetini yeni ehliyetlerle yenilemesi gerekmektedir  [avrupa standartlarında olan](http://ehliyetsinavihazirlik.com/images/2016-ehliyet-belgesi.png) veya 1 ocak 2016 sonra yeni ehliyet şeklinde aldıysanız. Bulgaristan iç işleri bakanlığının yaptığı bir anlaşma ile Türkiye ehliyetinizi verip Bulgaristan ehliyeti almanız mümkün. Bu konuyla ilgili bir [youtube videosuda](https://www.youtube.com/watch?v=CaeGLWakAqU) buldum bu arkadaşta güncel bilgileri yayınlıyor. 
+Bu konuda zamanınız yoksa ve ehliyetinizi Bulgaristan'dan almanız gerekiyorsa, öncelikle Bulgaristan'da oturum izniniz olması gerekiyor. Sonrasında [bu linkten](http://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm) ulaşacağınız bilgilerle ehliyet başvurusu yapabilir ve ehliyet için sınav tarihini alabilirsiniz.
 
-Bu işlemi yaparken bulundukları şehrin polis müdürlüğüne gidip ayrıntılı bilgi alabilirler.
+Eğer ehliyetiniz varsa ve 1 Ocak 2016 önce almış iseniz önce ehliyetinizin yeni ehliyet ile yenilenmesi gerekmektedir.
+[Avrupa standartlarında olan](http://ehliyetsinavihazirlik.com/images/2016-ehliyet-belgesi.png) veya 1 Ocak 2016 tarihinden sonra alınmış ehliyetiniz bulunuyorsa Bulgaristan İç İşleri Bakanlığının yaptığı bir anlaşma ile Türkiye ehliyetinizi verip Bulgaristan ehliyeti alabilirsiniz.
 
-Ücreti:25 leva 
-İşlem süres:30 gün
+Bu konuyla ilgili [şuradaki](https://www.youtube.com/watch?v=CaeGLWakAqU) videoda güncel
+bilgileri bulabilirsiniz. 
+
+Bu işlemi yaparken bulunduğunuz şehrin polis müdürlüğüne gidip ayrıntılı bilgi alabilirsiniz.
+
+İşlem ücreti 25 levadır (Kasım 2017) ve 30 gün içerisinde sonuçlanmaktadır.
+ 
