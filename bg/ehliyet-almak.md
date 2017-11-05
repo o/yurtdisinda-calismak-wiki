@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ehliyet almak
+title: Ehliyet almak veya değiştirmek
 contributors: Özgür Karalar
 updated_at: 05 Kasım 2017
 permalink: /bg/ehliyet-almak/
-description: Bulgaristan'da ehliyet almak veta değiştirmek konusu
+description: Bulgaristan'da ehliyet almak veya değiştirmek
 ---
 
 Bulgaristan'da eğer daha önce ehliyet almadıysanız Türk vatandaşı olup Bulgaristan'da ehliyet alabilmeniz için öncelikle yazılı sınavı geçmeniz gerekmektedir. Fakat bu ülkemize göre çok daha zor bir sınav ve Bulgarca dilinde, bu yüzden ehliyeti Türkiye'den almak ve Bulgaristan'da değiştirmek daha kolay bir seçenektir.
