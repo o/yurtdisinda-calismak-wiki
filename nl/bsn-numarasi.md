@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BSN numarası nedir, nasıl alınır?
+title: Belediyeye kayıt işlemi ve BSN numarası
 contributors: Osman Üngür
-updated_at: 05 Kasım 2017
-permalink: /nl/bsn-numarasi/
-description: Hollanda'da kullanılan BSN numarası nedir, nasıl alınır?
+updated_at: 06 Kasım 2017
+permalink: /nl/bsn-numarasi-belediye-kaydi/
+description: Hollanda'da kullanılan BSN numarası nedir, nasıl alınır, belediyeye kayıt için gerekli belgeler nelerdir?
 ---
 
 Hollanda'da yaşayan herkes bir BSN (burgerservicenummer) numarasına sahiptir.
@@ -17,6 +17,5 @@ Kayıt ücretlidir ve her belediye için bu rakam değişkendir. Bazı belediyel
 
 Kayıt için belediyelerin internet sitelerinden form doldurulması ve telefonla arayarak randevu alınması gereklidir. Kayıt esnasında kalıcı olarak kaldığınız yeri veya geçici olarak çalıştığınız şirketten belge alınması kaydıyla mutlaka bir adres gösterilmelidir (Bazı belediyeler sadece kalıcı adres kabul etmektedir). Geçici adres belirtmiş iseniz kısa süre içerisinde kalıcı adresinizi yeniden belediyeye bildirmek zorundasınız.
 
-Kayıt sırasında ailedeki her kişi için Formül A, evliliğinizi belgelemek için ise Formül B (apostilli) belgeleri gerekmektedir. Bu belgeleri Türkiye'de kaymakamlık veya nüfus dairelerinden alabilirsiniz.
-
-
+Kayıt sırasında kiralık ev için adresinizi gösteren kira sözleşmesi (huurovereenkomst), (eğer) ev paylaşımı yapıyorsanız bunu gösterir form, pasaport
+veya ID kart, çalışma kontratınız, ailedeki her kişi için Formül A, evliliğinizi belgelemek için ise Formül B (apostilli) belgeleri gerekmektedir (Formül A ve B belgelerini Türkiye'de kaymakamlık veya nüfus dairelerinden alabilirsiniz).
