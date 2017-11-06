@@ -11,7 +11,7 @@ Hollanda'da toplu ulaşım özelleştirilmiş firmalar tarafından yapılır. Uz
 
 Bazı ücretli feribotlar haricinde tüm ulaşım araçlarında [OV-chipkaart](https://www.ov-chipkaart.nl) ile seyahat edebilirsiniz. Bu kart hem biniş hemde inişlerde basılmaktadır ve gittiğiniz uzaklığa göre bakiyenizden düşülür. İnternet sitesi üzerinden yükleme yapabilir, seyahat geçmişinizi görebilir, bakiye azaldığında banka kartınızdan otomatik olarak çekilmesini sağlayabilirsiniz.
 
-Belli şirketlere bağlı ulaşım araçlarında indirimli abonelik tarifesi alabilirsiniz. Örneğin gün içerisinde veya haftasonları tren kullanıyorsanız yoğun saatler ve haftasonlarında %40 indirimden faydalanmak için [Dal Voordeel](https://www.ns.nl/en/season-tickets/dal-voordeel.html) aboneliği indirimli seyahat etmenizi sağlar. 
+Belli şirketlere bağlı ulaşım araçlarında indirimli abonelik tarifesi alabilirsiniz. Örneğin gün içerisinde veya hafta sonları tren kullanıyorsanız yoğun saatler ve hafta sonlarında %40 indirimden faydalanmak için [Dal Voordeel](https://www.ns.nl/en/season-tickets/dal-voordeel.html) aboneliği indirimli seyahat etmenizi sağlar. 
 
 Genel olarak metrolarda ve bazı otobüslerde bisikletiniz ile ücretsiz seyahat edebilirsiniz. Tren yolculukları için günlük bisikletle seyahat ürünü satın almanız gereklidir. 
 
