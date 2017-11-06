@@ -19,4 +19,5 @@ Kayıt için belediyelerin internet sitelerinden form doldurulması ve telefonla
 
 Kayıt sırasında kiralık ev için adresinizi gösteren kira sözleşmesi (huurovereenkomst), (eğer) ev paylaşımı yapıyorsanız bunu gösterir form (toestemmingsverklaring), pasaport veya ID kart, çalışma kontratınız, ailedeki her kişi için Formül A (Çok dilli doğum kayıt örneği), evliliğinizi belgelemek için ise Formül B belgeleri (apostilli şekilde) gerekmektedir (Formül A ve B belgelerini Türkiye'de kaymakamlık veya nüfus dairelerinden alabilirsiniz).
 
-Daha sonraki adres kaydı değişiklikleri (DigiD)[https://www.digid.nl/en/] ile resmi kurumlara gitmeden gerçekleştirilebilir.
+Daha sonraki adres kaydı değişiklikleri [DigiD](https://www.digid.nl/en/) ile resmi kurumlara gitmeden gerçekleştirilebilir.
+
