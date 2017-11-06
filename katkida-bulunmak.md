@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Katkıda bulunmak
-contributors: Osman Ungur
-updated_at: 24 Ekim 2017
+contributors: Osman Üngür
+updated_at: 6 Kasım 2017
 permalink: /katkida-bulunmak/
 description: Sitede yer alan içeriğe katkıda bulunmak isteyenler için kısa bir rehber
 ---
@@ -23,7 +23,7 @@ belirterek kullanabilirsiniz (Örneğin: Gemeente).
 ## Teknik konular
 
 İçerik [github.com/o/yurtdisinda-calismak-wiki](https://github.com/o/yurtdisinda-calismak-wiki) adresinde tutulmaktadır. 
-Katkı sağlamak için Github üzerinde Pull request gönderebilir veya e-posta gönderebilirsiniz. 
+Katkı sağlamak için Github üzerinde Pull request gönderebilir veya e-posta (yurtdisindacalismak@gmail.com) gönderebilirsiniz. 
 Lütfen güncellediğiniz döküman altında yer alan katkıda bulunanlar kısmına adınızı (Örneğin: Osman Üngür 
 veya Mehmet K. gibi) ekleyiniz ve son güncellenme tarihini düzenleyiniz.
 
