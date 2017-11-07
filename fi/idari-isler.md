@@ -7,25 +7,25 @@ permalink: /fi/idari-isler/
 description: Finlandiya'da İdari İşler
 ---
 
-Calisma izninizi alip Finlandiya'ya ilk key geldikten sonra yapmaniz gereken idari islemler
+Çalışma izninizi alıp Finlandiya'ya geldikten sonra yapmanız gereken idari işlemler;
 
-On bilgiler
-- Finlandiya'nin resmi dilleri Fince ve Isvecce'dir
-- Finlandiya'da idari birimlerdeki yetkililer cogunlukla cok iyi ingilizce konusur
-- Yardim istediginiz takdirde doldurmaniz gereken formlari soyleyeceklerdir
-- Fince ya da isvecce bilmediginizi belirttiginizde size varsa formlarin ingilizce olanlarini vereceklerdir
+Ön Bilgiler
+- Finlandiya'nın resmi dilleri Fince ve İsveççe'dir.
+- Finlandiya'da idari birimlerdeki yetkililer çogunlukla çok iyi ingilizce konusur.
+- Yardım istediğiniz takdirde doldurmanız gereken formları söyleyeceklerdir.
+- Fince ya da isveççe bilmediginizi belirttiginizde size varsa formların ingilizce olanlarını vereceklerdir.
 
-Nifus kayit - Maistraatti
+Nüfus Kayıt - Maistraatti
 =========================
 
-Oncelikle yapmaniz gereken kendinizi kaydettirmek http://www.maistraatti.fi adresinden sehrinizde/bolgenizdeki en yakin Maistraatti ofisini bulup gidin. Yaninizda calisma izni kartinizi ve pasaportunuzu goturmeniz gerekiyor. Burada size oturdugunuz adresi forma doldurmanizi isteyeceklerdir. Gecici bir yerde ( Otel, AirBnB, bir tanidigin evi vb. ) kaliyorsaniz bunu gorevliye soyleyin. Kayit islemi icin birimin kaydi tamamladiginda size posta ile bir dokuman gondermesi gerekiyor, bu yuzden 3 4 hafta icinde gelecek olan dokumani alabileceginiz bir yeri kaydetmelisiniz .Finlandiya'da kendinizi ikamet ediyor olarak kaydettiginiz yerin sahibini bilgilendirmemek bu konuda bilgilendirmemek suctur. ozellikle AirBnB tarzi bir yerde kaliyorsaniz buna dikkat etmelisiniz. Ileride gecici olarak kaydettiginiz adresinizden cikarsaniz bunu Maistraatti'ye gidip tekrar bildirmelisiniz. Maistraatti'nin islemi tamamladiginda kaydettiginiz adrese belge gonderecektir, bu belge ile diger islemlerinizi yapabilirsiniz, bu belge olmadan hemen hemen hicbir baska islem yapamazsiniz.
+Öncelikle yapmanız gereken kendinizi kaydettirmek; http://www.maistraatti.fi adresinden şehrinizde/bölgenizdeki en yakın Maistraatti ofisini bulup gidin. Yanınızda çalışma izni kartınızı ve pasaportunuzu götürmeniz gerekiyor. Burada size oturduğunuz adresi foruma doldurmanızı isteyeceklerdir. Geçici bir yerde ( Otel, AirBnB, bir tanıdığın evi vb. ) kalıyorsanız bunu görevliye söyleyin. Kayıt işlemi için birimin kaydı tamamladığında size posta ile bir dokuman göndermesi gerekiyor, bu yuzden 3 - 4 hafta içinde gelecek olan dokumanı alabileceğiniz bir yeri kaydetdirmelisiniz. Finlandiya'da kendinizi ikamet ediyor olarak kaydettiginiz yerin sahibini bu konuda bilgilendirmemek suçtur. Özellikle AirBnB tarzı bir yerde kalıyorsanız buna dikkat etmelisiniz. İleride geçici olarak kaydettiginiz adresinizden çıkarsaniz bunu Maistraatti'ye gidip tekrar bildirmelisiniz. Maistraatti'nin işlemi tamamladığında kaydettiğiniz adrese yeni bir belge gönderecektir, bu belge ile diğer işlemlerinizi yapabilirsiniz, bu belge olmadan hemen hemen hiçbir başka işlem yapamazsınız.
 
-Banka Hesabi Acilisi
+Banka Hesabı Açılışı
 ====================
 
-Vergi Karti - Vero
+Vergi Kartı - Vero
 ==================
 
-Soyal Sigorta Kaydi - Kela
+Soyal Sigorta Kaydı - Kela
 ==========================
 
