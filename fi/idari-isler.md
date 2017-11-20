@@ -7,8 +7,6 @@ permalink: /fi/idari-isler/
 description: Finlandiya'da İdari İşler
 ---
 
-Çalışma izninizi alıp Finlandiya'ya geldikten sonra yapmanız gereken idari işlemler;
-
 Ön Bilgiler
 ===========
 
