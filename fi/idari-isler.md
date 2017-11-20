@@ -10,6 +10,8 @@ description: Finlandiya'da İdari İşler
 Çalışma izninizi alıp Finlandiya'ya geldikten sonra yapmanız gereken idari işlemler;
 
 Ön Bilgiler
+===========
+
 - Finlandiya'nın resmi dilleri Fince ve İsveççe'dir.
 - Finlandiya'da idari birimlerdeki yetkililer çogunlukla çok iyi ingilizce konusur.
 - Yardım istediğiniz takdirde doldurmanız gereken formları söyleyeceklerdir.
