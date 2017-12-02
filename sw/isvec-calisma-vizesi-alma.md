@@ -19,6 +19,6 @@ Kısaca çalışma vizesi için gereken yasal şartlardan bahsedelim.
 
 5. Başvuru ücreti 2000 kron'dur. Çalışma izni uzatma harcı 1000 kron'dur.
 
-Çalışma izni için göçmenlik ofisi resmi site https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html
+Çalışma izni için göçmenlik ofisi resmi site [https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
 
 Bazı ayrıntılardan bahsedelim. Örneğin, bir front-end developer sınız ve İsveç'in büyük bir yazılım firmasında NON-EU vatandaşı olarak çalışma izni aldınız ve işe başladınız. Daha 24 ayı doldurmadan iş yerinizde problemler yaşamaya başladınız ve ayrılmayı düşünüyosunuz. Bu durumda yeni bulduğunuz iş için yeniden isveç'ten ayrılmadan bir çalışma iznine başvurabilirsiniz. Bu izni almadan işten çıkarsanız bazı durumlarda yeni başlayacağınız iş yeri için izin alamayabilirsiniz ve Ülkenize dönmek durumunda kalabilirsiniz. Her zaman sakin hareket etmelisiniz. Eğer şirketinizde sizden tecrübeli insanlar var ise konuşarak hareket etmelisiniz. 24 ay sonunda yeniden bir çalışma vizesi almadan veya İsveç'i terk etmeden iş değiştirebilirsiniz. 
