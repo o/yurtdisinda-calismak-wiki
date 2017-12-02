@@ -17,5 +17,7 @@ Kayıt ücretlidir ve her belediye için bu rakam değişkendir. Bazı belediyel
 
 Kayıt için belediyelerin internet sitelerinden form doldurulması ve telefonla arayarak randevu alınması gereklidir. Kayıt esnasında kalıcı olarak kaldığınız yeri veya geçici olarak çalıştığınız şirketten belge alınması kaydıyla mutlaka bir adres gösterilmelidir (Bazı belediyeler sadece kalıcı adres kabul etmektedir). Geçici adres belirtmiş iseniz kısa süre içerisinde kalıcı adresinizi yeniden belediyeye bildirmek zorundasınız.
 
-Kayıt sırasında kiralık ev için adresinizi gösteren kira sözleşmesi (huurovereenkomst), (eğer) ev paylaşımı yapıyorsanız bunu gösterir form, pasaport
-veya ID kart, çalışma kontratınız, ailedeki her kişi için Formül A, evliliğinizi belgelemek için ise Formül B (apostilli) belgeleri gerekmektedir (Formül A ve B belgelerini Türkiye'de kaymakamlık veya nüfus dairelerinden alabilirsiniz).
+Kayıt sırasında kiralık ev için adresinizi gösteren kira sözleşmesi (huurovereenkomst), (eğer) ev paylaşımı yapıyorsanız bunu gösteren form (toestemmingsverklaring), pasaport veya ID kart, çalışma kontratınız, ailedeki her kişi için Formül A (Çok dilli doğum kayıt örneği), evliliğinizi belgelemek için ise Formül B belgeleri (apostilli şekilde) gerekmektedir (Formül A ve B belgelerini Türkiye'de kaymakamlık veya nüfus dairelerinden alabilirsiniz).
+
+Daha sonraki adres kaydı değişiklikleri [DigiD](https://www.digid.nl/en/) ile resmi kurumlara gitmeden gerçekleştirilebilir.
+
