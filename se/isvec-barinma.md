@@ -4,14 +4,14 @@ title: İsveçte barınma
 contributors: Ömer Mindivanlı
 updated_at: 2 Aralık 2017
 permalink: /se/isvecte-barinma/
-description: İsveçte barınma ve ev kiralama süreci ile ilgili bilgiler
+description: İsveç'te barınma ve ev kiralama süreci ile ilgili bilgiler
 ---
 
 İsveç'te ev kiralama hakkındaki detaylardan bahsedelim. Öncelikle İsveç, Avrupa Birliği Emlak Komisyonu tarafından birkaç kere yeni yerleşim bölgeleri inşa etmediği ve bu sebebten ötürü ev kiralama ve satın almadaki problemleri çözmediğinden ötürü uyarı aldı. En son uyarı 6 ay önce geldi. 
 
 ## İnternet üzerinden ev bulmak
 
-http://blocket.com
+[http://blocket.com](http://blocket.com)
 
 Bu sitenin ülkemizdeki karşılığı sahibinden.com desek yeridir. Konsept de tamamen aynı. Adım adım süreci anlatmak istiyorum:
 

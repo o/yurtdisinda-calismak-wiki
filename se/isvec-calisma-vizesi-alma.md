@@ -4,20 +4,20 @@ title: İsveçte çalışma vizesi almak
 contributors: Ömer Mindivanlı
 updated_at: 2 Aralık 2017
 permalink: /se/isvec-calisma-vizesi-alma/
-description: İsveçte barınma ve ev kiralama süreci ile ilgili bilgiler
+description: İsveç'te barınma ve ev kiralama süreci ile ilgili bilgiler
 ---
 
 Kısaca çalışma vizesi için gereken yasal şartlardan bahsedelim.
 
-1. Geçerli bir pasaport'a sahip olmak.
+* Geçerli bir pasaport'a sahip olmak.
 
-2. İsveç toplu sözleşmeleri tarafından belirlenen meslek veya endüstri grupları içinde bulunan bir alan ile sizin mesleğinizin örtüşmesi ve bu sebebten ötürü size bir istihdam koşulu teklif edilmesi. Yani, bir meslek dalındaki yeterliliğinizden ötürü herhangi bir şirketin size iş teklifinde bulunulması. Örnek olarak; aşçılık, berberlik, mühendislik gibi.
+* İsveç toplu sözleşmeleri tarafından belirlenen meslek veya endüstri grupları içinde bulunan bir alan ile sizin mesleğinizin örtüşmesi ve bu sebebten ötürü size bir istihdam koşulu teklif edilmesi. Yani, bir meslek dalındaki yeterliliğinizden ötürü herhangi bir şirketin size iş teklifinde bulunulması. Örnek olarak; aşçılık, berberlik, mühendislik gibi.
 
-3. Burası önemli, sizin İsveç'te giderlerinizi rahatlıkla sağlayacak bir maaşın şirket tarafından size teklif edilmesi. Bu madde başvuran kişi ailesi ile gidicekse biraz zorlayıcı olabiliyor. İşe başladıktan sonra vergiler maaşınızdan kesilmeden önce (brüt maaş / brutton isveç dilinde) min 13.000 kron almak maaş alıyor iseniz bu koşul sağlanıyor.
+* Burası önemli, sizin İsveç'te giderlerinizi rahatlıkla sağlayacak bir maaşın şirket tarafından size teklif edilmesi. Bu madde başvuran kişi ailesi ile gidicekse biraz zorlayıcı olabiliyor. İşe başladıktan sonra vergiler maaşınızdan kesilmeden önce (brüt maaş / brutton isveç dilinde) min 13.000 kron almak maaş alıyor iseniz bu koşul sağlanıyor.
 
-4. En önemli madde ise, İsveç'te 4 tip sigorta vardır. İş vereninizin bu sigortaları yapıp yapmadığını online olarak kontrol edebilirsiniz. Bu sigortalar sırasıyla sağlık, yaşam, iş ve emekliliktir. Bunları örneğin 3 ay yatırmazsa iş veren 2 yıl sonra büyük bir ihtimalle çalışma izniniz yenilenmeyecektir. Genelde büyük şirketler bu sigortaları sorunsuz yapmaktadırlar. Şirketlerin İnsan Kaynakları ve Muhasebe departmanları kişinin çalışma iznini takip etmektedirler. Eğer kurumsal bir şirkete girerseniz büyük ihtimalle problem yaşama şahsınız daha az olacaktır.
+* En önemli madde ise, İsveç'te 4 tip sigorta vardır. İş vereninizin bu sigortaları yapıp yapmadığını online olarak kontrol edebilirsiniz. Bu sigortalar sırasıyla sağlık, yaşam, iş ve emekliliktir. Bunları örneğin 3 ay yatırmazsa iş veren 2 yıl sonra büyük bir ihtimalle çalışma izniniz yenilenmeyecektir. Genelde büyük şirketler bu sigortaları sorunsuz yapmaktadırlar. Şirketlerin İnsan Kaynakları ve Muhasebe departmanları kişinin çalışma iznini takip etmektedirler. Eğer kurumsal bir şirkete girerseniz büyük ihtimalle problem yaşama şahsınız daha az olacaktır.
 
-5. Başvuru ücreti 2000 kron'dur. Çalışma izni uzatma harcı 1000 kron'dur.
+* Başvuru ücreti 2000 kron'dur. Çalışma izni uzatma harcı 1000 kron'dur.
 
 Çalışma izni için göçmenlik ofisi resmi site [https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
 
