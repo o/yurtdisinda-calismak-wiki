@@ -3,7 +3,7 @@ layout: page
 title: İsveçte çalışma vizesi almak
 contributors: Ömer Mindivanlı
 updated_at: 2 Aralık 2017
-permalink: /sw/isvec-calisma-vizesi-alma/
+permalink: /se/isvec-calisma-vizesi-alma/
 description: İsveçte barınma ve ev kiralama süreci ile ilgili bilgiler
 ---
 

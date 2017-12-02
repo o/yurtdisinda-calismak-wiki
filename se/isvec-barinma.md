@@ -3,7 +3,7 @@ layout: page
 title: İsveçte barınma
 contributors: Ömer Mindivanlı
 updated_at: 2 Aralık 2017
-permalink: /sw/isvecte-barinma/
+permalink: /se/isvecte-barinma/
 description: İsveçte barınma ve ev kiralama süreci ile ilgili bilgiler
 ---
 
@@ -28,7 +28,7 @@ Bu sitenin ülkemizdeki karşılığı sahibinden.com desek yeridir. Konsept de 
 - i: yazan yere sehri giriniz ve eğer özel bir muhitte yaşamak istiyorsanız VÄLJ PLATS bölümünden yeri seçebilirsiniz. 
 - Şu an karşınıza bir sürü ilan çıktı. Şimdi google translate'i kullanabiliriz. Kiralamak istediğiniz evi yeni sekmede açtıktan sonra açılan sayfada herhangi bir yere çift tıklayıp Translate to Turkish veya English bölümüne tıklayınca. odanın detayları görünecektir.
 - Önemli bir nokta: Sitede hem mesaj atma hemde telefon ile arama kısmı bulunmaktadır. Bahsedilen yolu izlemezseniz telefon numaraları görünmeyecektir. 
-- Eve bakmak için randevunuza zamanında gidin. 
+- Eve bakmak için randevunuza zamanında gidiniz.
 
 İsveç'te ev kiralama depozito verme ile değil kontrat imzalamakla olmaktadır. Kontrat yapmazsanız sözle veya ev sahibiyle ikili anlaşma ile evin hiç bir yasal hakkı üzerinize olmayacaktır. Kontrat yapıp verdiğiniz depozitoyu ingilizce veya isveçce olarak kontrat'ın üzerine yazınız. Elektrik, su veya internet kiraya dahil ise lütfen kontrat üzerinde işaretleyiniz. En önemli konulardan birisi eğer evden ayrılmak isterseniz ne kadar zaman önce ev sahibine haber vermeniz gerektiğidir. İsveçte bu konu çok önemlidir. Ev sahibi ile tartışma çıkması muhtemeldir. Kendi iyiliğiniz adına ev sahibine 2 ay önceden haber vereceğim demeniz uygun olacaktır. 
 
@@ -36,4 +36,4 @@ Evi tutmaya gittiğiniz gün ev sahibinize içiniz ısınmadı veya bir şüphen
 
 İpuçları: Muhtemel ev sahibiniz ile İsveçce konuşarak anlaşmaya çalışın. Aksi takdirde bazı ev sahipleri odayı kiralamak istemeyeceklerdir. (Stockholm hariç, Stockholm uluslararası bir şehir).
 
-İlk olarak sehir merkezinde ucuz, güzel ve geniş bir mekan bulmanız. Pek mümkün olmayabilir. Bu arzunuzu ilerleyen aylarda gerçeklestirebilirsiniz. Özellikle Stockholm çok güzel düzenli ve nezih mahalleler vardır.
+İlk olarak sehir merkezinde ucuz, güzel ve geniş bir mekan bulmanız pek mümkün olmayabilir. Bu arzunuzu ilerleyen aylarda gerçeklestirebilirsiniz. Özellikle Stockholm çok güzel düzenli ve nezih mahalleler vardır.
