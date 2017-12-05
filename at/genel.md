@@ -3,7 +3,7 @@ layout: page
 title: Avusturya Genel Bakış 
 contributors: Alper Kalaycioglu
 updated_at: 05 Aralik 2017
-permalink: /at/genel
+permalink: /at/genel/
 description: Avusturya Genel Bakış 
 ---
 
