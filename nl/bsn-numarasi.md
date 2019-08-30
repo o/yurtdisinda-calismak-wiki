@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Belediyeye kayıt işlemi ve BSN numarası
+title: Belediyeye kayıt işlemi ve BSN 
 contributors: Osman Üngür
 updated_at: 06 Kasım 2017
-permalink: /nl/bsn-numarasi-belediye-kaydi/
-description: Hollanda'da kullanılan BSN numarası nedir, nasıl alınır, belediyeye kayıt için gerekli belgeler nelerdir?
+permalink: /nl/bsn-belediye-kaydi/
+description: Hollanda'da kullanılan BSN nedir, nasıl alınır, belediyeye kayıt için gerekli belgeler nelerdir?
 ---
 
-Hollanda'da yaşayan herkes bir BSN (burgerservicenummer) numarasına sahiptir.
+Hollanda'da yaşayan herkes bir BSN'e (burgerservicenummer) sahiptir.
 Bu numara çalışma hayatında, banka hesabı açmak, sağlık hizmetlerinden faydalanmak gibi 
 resmi işlemlerin bir çoğunda gereklidir.
 
